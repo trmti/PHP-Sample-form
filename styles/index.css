@@ -1,0 +1,77 @@
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: scroll;
+}
+
+h1 {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+input {
+  width: 150px;
+  height: 35px;
+  font-size: 25px;
+  color: #63676a;
+}
+
+.formSample {
+  width: 100%;
+  padding: 50px 0 50px 0;
+  text-align: center;
+}
+
+.formSample h1 {
+  color: #461a10;
+}
+
+#infos-form {
+  width: 100%;
+  text-align: center;
+}
+
+.person-container {
+  display: inline-block;
+  padding: 25px;
+}
+
+.name {
+  color: #18707d;
+}
+
+.info-item {
+  color: #18707d;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.info-body {
+  padding-left: 50px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.select-sex {
+  width: 150px;
+  height: 35px;
+}
+
+.submit-btn-wrapper {
+  margin: 50px 0;
+  width: 100%;
+}
+
+#submit-btn {
+  text-align: center;
+  width: 300px;
+  height: 100px;
+  border-radius: 100px;
+  font-size: 50px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+  background-color: #330e0b;
+  color: #faf2e6;
+}
